@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitkumar231x&label=Profile%20views&color=0e75b6&style=flat" alt="lalitkumar231x" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalitkumar231x" alt="lalitkumar231x" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalitkumar231" alt="lalitkumar231" /></a> </p>
 
 - 🌱 I’m currently learning **Nextjs,Reactjs,docker**
 
