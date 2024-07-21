@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lalitkumar231" alt="lalitkumar231" /></a> </p>
 
-- 🌱 I’m currently learning **Nextjs,Reactjs,docker**
+- 🌱 I’m currently learning **Reactjs,docker**
 
-- 👯 I’m looking to collaborate on **MERN and Full stack Project**
+- 👯 I’m looking to collaborate on **MERN Project**
 
 - 📫 How to reach me **lalit.ig912@gmail.com**
 
